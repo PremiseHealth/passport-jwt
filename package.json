@@ -1,5 +1,5 @@
 {
-  "name": "passport-jwt",
+  "name": "@premise/passport-jwt",
   "version": "3.0.1",
   "description": "Passport authentication strategy using JSON Web Tokens",
   "main": "./lib",
